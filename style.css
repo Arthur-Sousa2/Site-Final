@@ -1,0 +1,52 @@
+*{
+    margin:0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+
+.menu{
+    list-style-type: none;
+    background-color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.menu ul li{
+    display: inline;
+}
+
+.menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    color:black;
+    transition: background .4s;
+}
+.menu ul li a:hover{
+    background-color: rgb(243, 49, 49);
+}
+
+.Titulo{
+    text-align: center;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+section{
+    color: white;
+    margin: 25px;
+    background-color: rgb(184, 14, 14);
+}
+

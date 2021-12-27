@@ -1,0 +1,39 @@
+body{
+    background-image: url(imagens/barca3.jpg);
+    background-color: rgb(59, 59, 59);
+}
+
+section{
+    text-align: center;
+    
+}
+
+.imagem-home{
+    padding-bottom: 25px;
+    width: 300px x 300px;
+}
+
+.tituloh{
+    text-align: center;
+    padding: 15px;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.paragrafo{
+    text-align: left;
+    margin: 15px;
+    padding-bottom: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+#ig{
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+footer{
+    margin-top: 266px;
+}
